@@ -1031,7 +1031,10 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "\"react-scripts test\""
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "test": "react-scripts test"
   },
   "repository": {
     "type": "git",

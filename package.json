@@ -1031,10 +1031,10 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "eject": "react-scripts eject",
-    "test": "react-scripts test"
+    "start": "npm start -- --port 3000",
+    "build": "npm build",
+    "eject": "npm eject",
+    "test": "npm test"
   },
   "repository": {
     "type": "git",
